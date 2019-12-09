@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Pictures\\Projetos\\Exercicio_enum+composição\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj": {}
+    "C:\\Users\\lucas.silva\\Desktop\\Projetos\\enum---comp\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Pictures\\Projetos\\Exercicio_enum+composição\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj": {
+    "C:\\Users\\lucas.silva\\Desktop\\Projetos\\enum---comp\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Pictures\\Projetos\\Exercicio_enum+composição\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\enum---comp\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj",
         "projectName": "Exercicio_enum+composição",
-        "projectPath": "C:\\Users\\Lucas\\Pictures\\Projetos\\Exercicio_enum+composição\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Pictures\\Projetos\\Exercicio_enum+composição\\Exercicio_enum+composição\\obj\\",
+        "projectPath": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\enum---comp\\Exercicio_enum+composição\\Exercicio_enum+composição.csproj",
+        "packagesPath": "C:\\Users\\lucas.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\enum---comp\\Exercicio_enum+composição\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
