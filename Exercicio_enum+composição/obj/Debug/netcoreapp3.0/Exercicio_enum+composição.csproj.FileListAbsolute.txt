@@ -1,0 +1,11 @@
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\obj\Debug\netcoreapp3.0\Exercicio_enum+composição.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\obj\Debug\netcoreapp3.0\Exercicio_enum+composição.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\obj\Debug\netcoreapp3.0\Exercicio_enum+composição.AssemblyInfo.cs
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.exe
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.deps.json
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.runtimeconfig.json
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.runtimeconfig.dev.json
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.dll
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\bin\Debug\netcoreapp3.0\Exercicio_enum+composição.pdb
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\obj\Debug\netcoreapp3.0\Exercicio_enum+composição.dll
+C:\Users\lucas.silva\Desktop\Projetos\enum---comp\Exercicio_enum+composição\obj\Debug\netcoreapp3.0\Exercicio_enum+composição.pdb

@@ -16,5 +16,9 @@ namespace Exercicio_enum_composição.Entidades
             Name = name;
             Price = price;
         }
+        public override string ToString()
+        {
+            return Name + ", " + Price + " ";
+        }
     }
 }

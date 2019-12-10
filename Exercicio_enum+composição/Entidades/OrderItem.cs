@@ -23,5 +23,9 @@ namespace Exercicio_enum_composição.Entidades
         {
             return Quantity * Price;
         }
+        public override string ToString()
+        {
+            return Product + ", " + " Quantity: " + Quantity + ", " + " Subtotal: " + "$" + SubTotal();
+        }
     }
 }

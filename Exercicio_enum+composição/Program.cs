@@ -9,6 +9,7 @@ namespace Exercicio_enum_composição
     {
         static void Main(string[] args)
         {
+            //CultureInfo.CurrentCulture = new CultureInfo("en-US");
             Console.WriteLine("Enter client data:");
             Console.Write("Name: ");
             string name = Console.ReadLine();
@@ -23,13 +24,13 @@ namespace Exercicio_enum_composição
             Order order = new Order(DateTime.Now, status, client);
             Console.Write("How many items to this order? ");
             int n = int.Parse(Console.ReadLine());
-            for (int i = 1; i < n;i++)
+            for (int i = 1; i <= n;i++)
             {
                 Console.WriteLine("Enter #{0} item data:", i);
                 Console.Write("Product name: ");
                 string pname = Console.ReadLine();
                 Console.Write("Product price: ");
-                double price = double.Parse(Console.ReadLine());
+                double price = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
                 Product product = new Product(pname, price);

@@ -18,5 +18,9 @@ namespace Exercicio_enum_composição.Entidades
             Email = email;
             BirthDate = birthDate;
         }
+        public override string ToString()
+        {
+            return Name + " (" + BirthDate + ") - " + Email; 
+        }
     }
 }
