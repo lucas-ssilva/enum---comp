@@ -38,5 +38,21 @@ namespace Exercicio_enum_composição.Entidades
             }
             return total;
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.Append("Order status: ");
+            sb.AppendLine(Status.ToString());
+            sb.Append("Client: ");
+            sb.Append(Client.Name);
+            sb.Append(" (");
+            sb.Append(Client.BirthDate);
+            sb.Append(") - ");
+            sb.Append(Client.Email);
+            return sb.ToString();
+        }
     }
 }
